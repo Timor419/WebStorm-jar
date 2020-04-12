@@ -1,4 +1,5 @@
 
+详细参考：https://timor419.github.io/2020/04/12/WebStorm-WXreminder/
 
 1.打开idea Settings 选择 Editor——Code Style——File Types
 
