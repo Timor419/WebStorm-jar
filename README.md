@@ -1,6 +1,6 @@
 
 
-#### 1.打开idea Settings 选择 Editor——Code Style——File Types
+1.打开idea Settings 选择 Editor——Code Style——File Types
 
 > 注意：如果是Mac，在webstorm界面按键：`command` + `,`
 
